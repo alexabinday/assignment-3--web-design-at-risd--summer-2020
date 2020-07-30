@@ -1,11 +1,22 @@
 body {
   background-repeat: no-repeat;
   background-image: linear-gradient(to top, orange, yellow);
-  height: 100vh;
+  height: 150vh;
 }
 header {
   font-family: fantasy;
 }
 footer {
   font-style: italic;
+}
+ol {
+  margin:auto;
+  width: 600px
+}
+h1 {
+  margin:auto;
+  width: 500px
+}
+main {
+
 }
