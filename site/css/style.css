@@ -1,7 +1,7 @@
 body {
   background-repeat: no-repeat;
   background-image: linear-gradient(to top, orange, yellow);
-  height: 150vh;
+  height: 180vh;
 }
 header {
   font-family: fantasy;
@@ -25,5 +25,7 @@ background-color: orange;
 width: 80px
 }
 main {
-  text-align: center
+  text-align: center;
+  line-height: 2rem
+
 }
