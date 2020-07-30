@@ -3,3 +3,9 @@ body {
   background-image: linear-gradient(to top, orange, yellow);
   height: 100vh;
 }
+header {
+  font-family: fantasy;
+}
+footer {
+  font-style: italic;
+}
