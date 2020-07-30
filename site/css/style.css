@@ -1,0 +1,5 @@
+body {
+  background-repeat: no-repeat;
+  background-image: linear-gradient (to top, black, green);
+  height: 100vh;
+}
