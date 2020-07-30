@@ -5,9 +5,11 @@ body {
 }
 header {
   font-family: fantasy;
+  text-align: center
 }
 footer {
   font-style: italic;
+  text-align: center
 }
 ol {
   margin:auto;
@@ -19,4 +21,9 @@ h1 {
 }
 nav {
 position: relative;
+background-color: orange;
+width: 80px
+}
+main {
+  text-align: center
 }
