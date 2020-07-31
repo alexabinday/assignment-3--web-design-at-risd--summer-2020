@@ -7,9 +7,15 @@ header {
   font-family: fantasy;
   text-align: center
 }
+header {
+  font-size: 30px
+}
 footer {
   font-style: italic;
   text-align: center
+}
+footer {
+  font-size: 30px
 }
 ol {
   margin:auto;
@@ -31,5 +37,8 @@ nav {
   font-size: 12px;
 }
 img {
-  width: 110%
+  width: 100%
+}
+li {
+  font-style: helvetica
 }
