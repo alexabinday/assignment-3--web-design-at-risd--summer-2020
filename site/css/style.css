@@ -22,10 +22,12 @@ h1 {
 nav {
 position: relative;
 background-color: orange;
-width: 80px
+width: 255px
 }
 main {
   text-align: center;
   line-height: 2rem
-
+}
+nav {
+  font-size: 12px;
 }
